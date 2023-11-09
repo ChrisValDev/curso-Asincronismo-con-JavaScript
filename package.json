@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ChrisValDev/curso-Asincronismo-con-JavaScript#readme",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
   }
 }

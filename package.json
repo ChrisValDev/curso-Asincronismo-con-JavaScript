@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ChrisValDev/curso-Asincronismo-con-JavaScript/issues"
   },
-  "homepage": "https://github.com/ChrisValDev/curso-Asincronismo-con-JavaScript#readme"
+  "homepage": "https://github.com/ChrisValDev/curso-Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
